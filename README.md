@@ -1,1 +1,1 @@
-# project1
+This is a to-di list app project. 
