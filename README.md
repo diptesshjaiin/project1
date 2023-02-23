@@ -1,1 +1,1 @@
-This is a to-di list app project. 
+This is a to-do list app project. 
